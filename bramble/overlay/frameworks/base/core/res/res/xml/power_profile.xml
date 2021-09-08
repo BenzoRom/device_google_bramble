@@ -53,7 +53,7 @@
       <value>576000</value> <!-- 576 MHz CPU speed -->
       <value>614400</value> <!-- 614 MHz CPU speed -->
       <value>864000</value> <!-- 864 MHz CPU speed -->
-      <value>1075200</value> <!-- 1075 MHz CPU speed -->
+      <value>902400</value> <!-- 902 MHz CPU speed -->
       <value>1363200</value> <!-- 1363 MHz CPU speed -->
       <value>1516800</value> <!-- 1516 MHz CPU speed -->
       <value>1651200</value> <!-- 1651 MHz CPU speed -->
@@ -65,7 +65,7 @@
     <array name="cpu.core_speeds.cluster1">
       <value>652800</value> <!-- 652 MHz CPU speed -->
       <value>940800</value> <!-- 940 MHz CPU speed -->
-      <value>1152000</value> <!-- 1152 MHz CPU speed -->
+      <value>1094400</value> <!-- 1094 MHz CPU speed -->
       <value>1478400</value> <!-- 1478 MHz CPU speed -->
       <value>1728000</value> <!-- 1728 MHz CPU speed -->
       <value>1900800</value> <!-- 1900 MHz CPU speed -->
